@@ -63,8 +63,12 @@ CI/CD • GitHub Actions
 ### GitHub Analytics
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NamanJaiswal7&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=NamanJaiswal7&theme=github-dark-blue&hide_border=true" />
+  <a href="https://github.com/NamanJaiswal7">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=NamanJaiswal7&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/NamanJaiswal7">
+    <img height="160" src="https://streak-stats.demolab.com?user=NamanJaiswal7&theme=dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
